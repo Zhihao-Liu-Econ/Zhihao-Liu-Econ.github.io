@@ -8,7 +8,7 @@ Welcome to my website!
 
 I am an economics student at Renmin University of China.
 
-My research interests include network theory and epistemic game theory, especially in how to incorporate incompelte information in the analysis of networks.
+My research interests include network theory and epistemic game theory, especially in how to incorporate incomplete information in the analysis of networks.
 
 ## Education
 
