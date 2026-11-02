@@ -14,7 +14,7 @@ My research interests include network theory and epistemic game theory, especial
 
 - Bachelor in computer science and technology, Harbin Institute of Technology, Shenzhen, 2020-2024
 - Master in economics, Renmin University of China, 2024-2026
-- Phd in economics, Renmin University of China, 2026-present
+- PhD in economics, Renmin University of China, 2026-present
 
 ## Current Project
 
